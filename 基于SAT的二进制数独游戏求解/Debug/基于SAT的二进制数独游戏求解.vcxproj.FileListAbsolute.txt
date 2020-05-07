@@ -1,0 +1,2 @@
+C:\Users\Yu-zq\Desktop\于祯奇\学习\数据结构\课设\基于SAT的二进制数独游戏求解\Debug\基于SAT的二进制数独游戏求解.exe
+C:\Users\Yu-zq\Desktop\于祯奇\学习\数据结构\课设\基于SAT的二进制数独游戏求解\Debug\基于SAT的二进制数独游戏求解.pdb

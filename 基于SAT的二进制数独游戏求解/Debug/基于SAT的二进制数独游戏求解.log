@@ -1,0 +1,56 @@
+﻿  BetterDPLL.cpp
+C:\Users\Yu-zq\Desktop\于祯奇\学习\数据结构\课设\基于SAT的二进制数独游戏求解\head.h(15,1): warning C4005: “OVERFLOW”: 宏重定义
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_math.h(967): message : 参见“OVERFLOW”的前一个定义
+  Choose.cpp
+C:\Users\Yu-zq\Desktop\于祯奇\学习\数据结构\课设\基于SAT的二进制数独游戏求解\head.h(15,1): warning C4005: “OVERFLOW”: 宏重定义
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_math.h(967): message : 参见“OVERFLOW”的前一个定义
+  CreateCNF.cpp
+C:\Users\Yu-zq\Desktop\于祯奇\学习\数据结构\课设\基于SAT的二进制数独游戏求解\head.h(15,1): warning C4005: “OVERFLOW”: 宏重定义
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_math.h(967): message : 参见“OVERFLOW”的前一个定义
+C:\Users\Yu-zq\Desktop\于祯奇\学习\数据结构\课设\基于SAT的二进制数独游戏求解\CreateCNF.cpp(8,12): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Yu-zq\Desktop\于祯奇\学习\数据结构\课设\基于SAT的二进制数独游戏求解\CreateCNF.cpp(13,22): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Yu-zq\Desktop\于祯奇\学习\数据结构\课设\基于SAT的二进制数独游戏求解\CreateCNF.cpp(15,2): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Yu-zq\Desktop\于祯奇\学习\数据结构\课设\基于SAT的二进制数独游戏求解\CreateCNF.cpp(18,3): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Yu-zq\Desktop\于祯奇\学习\数据结构\课设\基于SAT的二进制数独游戏求解\CreateCNF.cpp(19,3): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Yu-zq\Desktop\于祯奇\学习\数据结构\课设\基于SAT的二进制数独游戏求解\CreateCNF.cpp(27,4): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Yu-zq\Desktop\于祯奇\学习\数据结构\课设\基于SAT的二进制数独游戏求解\CreateCNF.cpp(32,5): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  DPLL.cpp
+C:\Users\Yu-zq\Desktop\于祯奇\学习\数据结构\课设\基于SAT的二进制数独游戏求解\head.h(15,1): warning C4005: “OVERFLOW”: 宏重定义
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_math.h(967): message : 参见“OVERFLOW”的前一个定义
+  Export.cpp
+C:\Users\Yu-zq\Desktop\于祯奇\学习\数据结构\课设\基于SAT的二进制数独游戏求解\head.h(15,1): warning C4005: “OVERFLOW”: 宏重定义
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_math.h(967): message : 参见“OVERFLOW”的前一个定义
+C:\Users\Yu-zq\Desktop\于祯奇\学习\数据结构\课设\基于SAT的二进制数独游戏求解\Export.cpp(56,12): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Yu-zq\Desktop\于祯奇\学习\数据结构\课设\基于SAT的二进制数独游戏求解\Export.cpp(95,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Yu-zq\Desktop\于祯奇\学习\数据结构\课设\基于SAT的二进制数独游戏求解\Export.cpp(96,7): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Main.cpp
+C:\Users\Yu-zq\Desktop\于祯奇\学习\数据结构\课设\基于SAT的二进制数独游戏求解\head.h(15,1): warning C4005: “OVERFLOW”: 宏重定义
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_math.h(967): message : 参见“OVERFLOW”的前一个定义
+C:\Users\Yu-zq\Desktop\于祯奇\学习\数据结构\课设\基于SAT的二进制数独游戏求解\Main.cpp(25,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Yu-zq\Desktop\于祯奇\学习\数据结构\课设\基于SAT的二进制数独游戏求解\Main.cpp(40,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Yu-zq\Desktop\于祯奇\学习\数据结构\课设\基于SAT的二进制数独游戏求解\Main.cpp(45,6): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Yu-zq\Desktop\于祯奇\学习\数据结构\课设\基于SAT的二进制数独游戏求解\Main.cpp(73,6): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Yu-zq\Desktop\于祯奇\学习\数据结构\课设\基于SAT的二进制数独游戏求解\Main.cpp(75,6): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Yu-zq\Desktop\于祯奇\学习\数据结构\课设\基于SAT的二进制数独游戏求解\Main.cpp(183,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Yu-zq\Desktop\于祯奇\学习\数据结构\课设\基于SAT的二进制数独游戏求解\Main.cpp(198,7): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Yu-zq\Desktop\于祯奇\学习\数据结构\课设\基于SAT的二进制数独游戏求解\Main.cpp(204,8): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Yu-zq\Desktop\于祯奇\学习\数据结构\课设\基于SAT的二进制数独游戏求解\Main.cpp(230,8): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Yu-zq\Desktop\于祯奇\学习\数据结构\课设\基于SAT的二进制数独游戏求解\Main.cpp(250,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Yu-zq\Desktop\于祯奇\学习\数据结构\课设\基于SAT的二进制数独游戏求解\Main.cpp(260,8): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Yu-zq\Desktop\于祯奇\学习\数据结构\课设\基于SAT的二进制数独游戏求解\Main.cpp(261,8): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Yu-zq\Desktop\于祯奇\学习\数据结构\课设\基于SAT的二进制数独游戏求解\Main.cpp(262,8): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Yu-zq\Desktop\于祯奇\学习\数据结构\课设\基于SAT的二进制数独游戏求解\Main.cpp(263,8): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Yu-zq\Desktop\于祯奇\学习\数据结构\课设\基于SAT的二进制数独游戏求解\Main.cpp(284,8): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Yu-zq\Desktop\于祯奇\学习\数据结构\课设\基于SAT的二进制数独游戏求解\Main.cpp(294,8): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Yu-zq\Desktop\于祯奇\学习\数据结构\课设\基于SAT的二进制数独游戏求解\Main.cpp(295,8): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Yu-zq\Desktop\于祯奇\学习\数据结构\课设\基于SAT的二进制数独游戏求解\Main.cpp(296,8): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Yu-zq\Desktop\于祯奇\学习\数据结构\课设\基于SAT的二进制数独游戏求解\Main.cpp(297,8): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  PuzzleSolve.cpp
+C:\Users\Yu-zq\Desktop\于祯奇\学习\数据结构\课设\基于SAT的二进制数独游戏求解\head.h(15,1): warning C4005: “OVERFLOW”: 宏重定义
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_math.h(967): message : 参见“OVERFLOW”的前一个定义
+  Tools.cpp
+C:\Users\Yu-zq\Desktop\于祯奇\学习\数据结构\课设\基于SAT的二进制数独游戏求解\head.h(15,1): warning C4005: “OVERFLOW”: 宏重定义
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_math.h(967): message : 参见“OVERFLOW”的前一个定义
+  正在生成代码...
+C:\Users\Yu-zq\Desktop\于祯奇\学习\数据结构\课设\基于SAT的二进制数独游戏求解\Choose.cpp(15): warning C4715: “Choose_1”: 不是所有的控件路径都返回值
+  基于SAT的二进制数独游戏求解.vcxproj -> C:\Users\Yu-zq\Desktop\于祯奇\学习\数据结构\课设\基于SAT的二进制数独游戏求解\Debug\基于SAT的二进制数独游戏求解.exe

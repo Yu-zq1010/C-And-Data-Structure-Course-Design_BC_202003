@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="BetterDPLL.cpp" />
+    <ClCompile Include="Choose.cpp" />
+    <ClCompile Include="CreateCNF.cpp" />
+    <ClCompile Include="DPLL.cpp" />
+    <ClCompile Include="Export.cpp" />
+    <ClCompile Include="Main.cpp" />
+    <ClCompile Include="PuzzleSolve.cpp" />
+    <ClCompile Include="Tools.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\程序设计综合课程设计任务及指导学生包\SAT测试备选算例\其它可供选择使用的算例\ais\ais10.cnf" />
+    <None Include="..\程序设计综合课程设计任务及指导学生包\SAT测试备选算例\其它可供选择使用的算例\ais\ais12.cnf" />
+    <None Include="..\程序设计综合课程设计任务及指导学生包\SAT测试备选算例\其它可供选择使用的算例\ais\ais8.cnf" />
+    <None Include="..\程序设计综合课程设计任务及指导学生包\SAT测试备选算例\其它可供选择使用的算例\fla-350-1.cnf" />
+    <None Include="..\程序设计综合课程设计任务及指导学生包\SAT测试备选算例\其它可供选择使用的算例\fla-350-2.cnf" />
+    <None Include="..\程序设计综合课程设计任务及指导学生包\SAT测试备选算例\其它可供选择使用的算例\fla-400-1.cnf" />
+    <None Include="..\程序设计综合课程设计任务及指导学生包\SAT测试备选算例\其它可供选择使用的算例\fla-400-2.cnf" />
+    <None Include="..\程序设计综合课程设计任务及指导学生包\SAT测试备选算例\其它可供选择使用的算例\fla-400-3.cnf" />
+    <None Include="..\程序设计综合课程设计任务及指导学生包\SAT测试备选算例\其它可供选择使用的算例\fla-450-6.cnf" />
+    <None Include="..\程序设计综合课程设计任务及指导学生包\SAT测试备选算例\其它可供选择使用的算例\fla-450-7.cnf" />
+    <None Include="..\程序设计综合课程设计任务及指导学生包\SAT测试备选算例\其它可供选择使用的算例\fla-450-8.cnf" />
+    <None Include="..\程序设计综合课程设计任务及指导学生包\SAT测试备选算例\其它可供选择使用的算例\fla-450-9.cnf" />
+    <None Include="..\程序设计综合课程设计任务及指导学生包\SAT测试备选算例\其它可供选择使用的算例\fla-500-0.cnf" />
+    <None Include="..\程序设计综合课程设计任务及指导学生包\SAT测试备选算例\其它可供选择使用的算例\fla-500-1.cnf" />
+    <None Include="..\程序设计综合课程设计任务及指导学生包\SAT测试备选算例\其它可供选择使用的算例\fla-500-2.cnf" />
+    <None Include="..\程序设计综合课程设计任务及指导学生包\SAT测试备选算例\其它可供选择使用的算例\fla-600-1.cnf" />
+    <None Include="..\程序设计综合课程设计任务及指导学生包\SAT测试备选算例\其它可供选择使用的算例\fla-600-2.cnf" />
+    <None Include="..\程序设计综合课程设计任务及指导学生包\SAT测试备选算例\其它可供选择使用的算例\fla-600-3.cnf" />
+    <None Include="..\程序设计综合课程设计任务及指导学生包\SAT测试备选算例\其它可供选择使用的算例\fla-600-4.cnf" />
+    <None Include="..\程序设计综合课程设计任务及指导学生包\SAT测试备选算例\其它可供选择使用的算例\fla-600-5.cnf" />
+    <None Include="..\程序设计综合课程设计任务及指导学生包\SAT测试备选算例\其它可供选择使用的算例\fla-600-6.cnf" />
+    <None Include="..\程序设计综合课程设计任务及指导学生包\SAT测试备选算例\其它可供选择使用的算例\fla-600-7.cnf" />
+    <None Include="..\程序设计综合课程设计任务及指导学生包\SAT测试备选算例\其它可供选择使用的算例\fla-600-8.cnf" />
+    <None Include="..\程序设计综合课程设计任务及指导学生包\SAT测试备选算例\其它可供选择使用的算例\fla-600-9.cnf" />
+    <None Include="..\程序设计综合课程设计任务及指导学生包\SAT测试备选算例\其它可供选择使用的算例\problem1.cnf" />
+    <None Include="..\程序设计综合课程设计任务及指导学生包\SAT测试备选算例\其它可供选择使用的算例\tst\anomaly.cnf" />
+    <None Include="..\程序设计综合课程设计任务及指导学生包\SAT测试备选算例\其它可供选择使用的算例\tst\bmc-ibm-2.cnf" />
+    <None Include="..\程序设计综合课程设计任务及指导学生包\SAT测试备选算例\其它可供选择使用的算例\tst\bmc-ibm-5.cnf" />
+    <None Include="..\程序设计综合课程设计任务及指导学生包\SAT测试备选算例\其它可供选择使用的算例\tst\bw_large.a.cnf" />
+    <None Include="..\程序设计综合课程设计任务及指导学生包\SAT测试备选算例\其它可供选择使用的算例\tst\CBS_k3_n100_m403_b10_0.cnf" />
+    <None Include="..\程序设计综合课程设计任务及指导学生包\SAT测试备选算例\其它可供选择使用的算例\tst\CBS_k3_n100_m403_b10_999.cnf" />
+    <None Include="..\程序设计综合课程设计任务及指导学生包\SAT测试备选算例\其它可供选择使用的算例\tst\flat30-1.cnf" />
+    <None Include="..\程序设计综合课程设计任务及指导学生包\SAT测试备选算例\其它可供选择使用的算例\tst\flat30-99.cnf" />
+    <None Include="..\程序设计综合课程设计任务及指导学生包\SAT测试备选算例\其它可供选择使用的算例\tst\qg4-08.cnf" />
+    <None Include="..\程序设计综合课程设计任务及指导学生包\SAT测试备选算例\其它可供选择使用的算例\tst\qg7-09.cnf" />
+    <None Include="..\程序设计综合课程设计任务及指导学生包\SAT测试备选算例\其它可供选择使用的算例\tst\sw100-1.cnf" />
+    <None Include="..\程序设计综合课程设计任务及指导学生包\SAT测试备选算例\其它可供选择使用的算例\tst\sw100-70.cnf" />
+    <None Include="..\程序设计综合课程设计任务及指导学生包\SAT测试备选算例\其它可供选择使用的算例\tst\tst_v100_c160.cnf" />
+    <None Include="..\程序设计综合课程设计任务及指导学生包\SAT测试备选算例\其它可供选择使用的算例\tst\tst_v100_c400.cnf" />
+    <None Include="..\程序设计综合课程设计任务及指导学生包\SAT测试备选算例\其它可供选择使用的算例\tst\tst_v100_c425.cnf" />
+    <None Include="..\程序设计综合课程设计任务及指导学生包\SAT测试备选算例\其它可供选择使用的算例\tst\tst_v10_c100.cnf" />
+    <None Include="..\程序设计综合课程设计任务及指导学生包\SAT测试备选算例\其它可供选择使用的算例\tst\tst_v200_c210.cnf" />
+    <None Include="..\程序设计综合课程设计任务及指导学生包\SAT测试备选算例\其它可供选择使用的算例\tst\tst_v200_c220.cnf" />
+    <None Include="..\程序设计综合课程设计任务及指导学生包\SAT测试备选算例\其它可供选择使用的算例\tst\tst_v25_c100.cnf" />
+    <None Include="..\程序设计综合课程设计任务及指导学生包\SAT测试备选算例\其它可供选择使用的算例\tst\tst_v50_c500.cnf" />
+    <None Include="..\程序设计综合课程设计任务及指导学生包\SAT测试备选算例\其它可供选择使用的算例\unif-k5-r21.117-v200-c4223-S4002140054644802477.cnf" />
+    <None Include="..\程序设计综合课程设计任务及指导学生包\SAT测试备选算例\其它可供选择使用的算例\unif-k5-r21.117-v210-c4435-S4127276652013243201.cnf" />
+    <None Include="..\程序设计综合课程设计任务及指导学生包\SAT测试备选算例\其它可供选择使用的算例\unif-k5-r21.117-v220-c4646-S8880173106084916574.cnf" />
+    <None Include="..\程序设计综合课程设计任务及指导学生包\SAT测试备选算例\其它可供选择使用的算例\unif-k5-r21.117-v230-c4857-S5466032506449778945.cnf" />
+    <None Include="..\程序设计综合课程设计任务及指导学生包\SAT测试备选算例\其它可供选择使用的算例\unif-k5-r21.117-v240-c5068-S2186511053839131430.cnf" />
+    <None Include="..\程序设计综合课程设计任务及指导学生包\SAT测试备选算例\其它可供选择使用的算例\unif-k5-r21.117-v250-c5279-S6329896642998422222.cnf" />
+    <None Include="..\程序设计综合课程设计任务及指导学生包\SAT测试备选算例\其它可供选择使用的算例\unif-k5-r21.117-v340-c7180-S5246810046375068902.cnf" />
+    <None Include="..\程序设计综合课程设计任务及指导学生包\SAT测试备选算例\其它可供选择使用的算例\unif-k5-r21.117-v350-c7391-S5200354631670098160.cnf" />
+    <None Include="..\程序设计综合课程设计任务及指导学生包\SAT测试备选算例\其它可供选择使用的算例\unif-k5-r21.117-v360-c7602-S6289893278866091723.cnf" />
+    <None Include="..\程序设计综合课程设计任务及指导学生包\SAT测试备选算例\其它可供选择使用的算例\unif-k5-r21.117-v370-c7813-S7746425362655160776.cnf" />
+    <None Include="..\程序设计综合课程设计任务及指导学生包\SAT测试备选算例\其它可供选择使用的算例\unif-k5-r21.117-v380-c8024-S1091401852812731219.cnf" />
+    <None Include="..\程序设计综合课程设计任务及指导学生包\SAT测试备选算例\其它可供选择使用的算例\unif-k5-r21.117-v390-c8236-S7412914535193118493.cnf" />
+    <None Include="..\程序设计综合课程设计任务及指导学生包\SAT测试备选算例\其它可供选择使用的算例\unif-k5-r21.117-v400-c8447-S846004181796583408.cnf" />
+    <None Include="..\程序设计综合课程设计任务及指导学生包\SAT测试备选算例\其它可供选择使用的算例\unif-k5-r21.117-v410-c8658-S4543518419162839699.cnf" />
+    <None Include="..\程序设计综合课程设计任务及指导学生包\SAT测试备选算例\满足算例\L\e-par32-3.shuffled-3176.cnf" />
+    <None Include="..\程序设计综合课程设计任务及指导学生包\SAT测试备选算例\满足算例\L\ec-iso-ukn009.shuffled-as.sat05-3632-1584.cnf" />
+    <None Include="..\程序设计综合课程设计任务及指导学生包\SAT测试备选算例\满足算例\L\ec-vda_gr_rcs_w9.shuffled-6498.cnf" />
+    <None Include="..\程序设计综合课程设计任务及指导学生包\SAT测试备选算例\满足算例\L\eh-dp04s04.shuffled-1075.cnf" />
+    <None Include="..\程序设计综合课程设计任务及指导学生包\SAT测试备选算例\满足算例\L\eh-vmpc_25.renamed-as.sat05-1913-625.cnf" />
+    <None Include="..\程序设计综合课程设计任务及指导学生包\SAT测试备选算例\满足算例\L\eh-vmpc_29.renamed-as.sat05-1916-841.cnf" />
+    <None Include="..\程序设计综合课程设计任务及指导学生包\SAT测试备选算例\满足算例\L\m-vmpc_32.renamed-as.sat05-1919-1024.cnf" />
+    <None Include="..\程序设计综合课程设计任务及指导学生包\SAT测试备选算例\满足算例\L\mc-sha0_36_5-50073.cnf" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="head.h" />
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <VCProjectVersion>16.0</VCProjectVersion>
+    <ProjectGuid>{4F28D1B1-8D54-4E1D-85BF-F97041D30C8E}</ProjectGuid>
+    <RootNamespace>基于SAT的二进制数独游戏求解</RootNamespace>
+    <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v142</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v142</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v142</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v142</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="Shared">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup />
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <SDLCheck>false</SDLCheck>
+      <ConformanceMode>true</ConformanceMode>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <SDLCheck>false</SDLCheck>
+      <ConformanceMode>true</ConformanceMode>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <ConformanceMode>true</ConformanceMode>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <ConformanceMode>true</ConformanceMode>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+    </Link>
+  </ItemDefinitionGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>
